@@ -1,0 +1,12 @@
+F2 = do that
+F3 = go there
+
+Alt+Shift+X, T = Execute Test
+Ctrl+Shift+F = Format
+Ctrl+Shift+O = Organize Imports
+Ctrl+E = Recent files
+Ctrl+Shift+R = Rename
+Ctrl+D = Delete Line
+Ctrl+F11 = Re-run last test
+Ctrl+Space = autocomplete
+Ctrl+Shift+M = static import
